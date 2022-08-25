@@ -1,0 +1,6 @@
+/dev/root       7.6G  2.6G  5.1G  34% /
+tmpfs           484M     0  484M   0% /dev/shm
+tmpfs           194M  848K  193M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda15     105M  5.3M  100M   5% /boot/efi
+tmpfs            97M  4.0K   97M   1% /run/user/1000
